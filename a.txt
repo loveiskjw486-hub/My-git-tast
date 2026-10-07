@@ -1,2 +1,68 @@
 이것은 a.txt 입니다.
-sasdlllfkkd
+sasdlllfkkdl
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>java 실습</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Lab</h1>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Product</a></li>
+            <li><a href="#">Research</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="account">
+        <a href="#" class="account-btn">LOGIN</a>
+        <a href="#" class="account-btn">Register</a>
+    </div>
+</header>
+
+
+<section class="main">
+
+    <div class="content">
+
+        <p class="welcome">WELCOME LAB</p>
+
+        <h3>
+            Eu do exercitation reprehenderit culpa do occaecat fugitive unload.
+        </h3>
+
+        <p class="description">
+            Ut incididunt aliqua culpa enim. Velit aliqua dolor cupidatat veniam
+            minim excepteur magna dolor incididunt ea deserunt ex nulla.
+            Exercitation esse quis ea velit ullamco esse deserunt ut dolore.
+            Sunt quis irure velit cupidatat mollit ut culpa reprehenderit duis.
+        </p>
+
+        <div class="buttons">
+            <a href="#" class="main-btn">Explore</a>
+            <a href="#" class="main-btn">Watch Video</a>
+        </div>
+
+    </div>
+
+
+    <div class="image-box">
+        <img src="images/main.png" alt="Lab 이미지">
+    </div>
+
+</section>
+
+</body>
+</html>
